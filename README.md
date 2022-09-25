@@ -18,7 +18,7 @@ Pembagian code dalam MVVM dibagi menjadi Model, View, dan ViewModel :
 ---
 notes
 - contoh implementasi MVVM pada repo ini menggunakan react native dam req res open api sebagai studi kasus
-- jika masih terdapat kesalah dalam implementasi, feel free untuk membenarkan, hehe
+- jika masih terdapat kesalaan dalam implementasi, feel free untuk diinfokan, hehe
 
 
 enjoyed !
